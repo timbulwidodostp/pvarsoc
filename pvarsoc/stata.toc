@@ -2,4 +2,4 @@
 1
 2
 3
-p bootur Bootstrap unit root tests for single series, multiple series and panels Use bootur With STATA 19
+p pvarsoc Obtain lag-order selection statistics for panel VAR estimated using GMM Use pvarsoc With STATA 19
